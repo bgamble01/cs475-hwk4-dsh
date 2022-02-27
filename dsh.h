@@ -9,3 +9,9 @@
 #define HISTORY_LEN 100
 
 // TODO: Your function prototypes below
+
+void dshMain();
+void motdFind();
+int findPath2(char input[]);
+int checkBuilts(char input[]);
+char* pathExp (char input[],char newpath[]);
