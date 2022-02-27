@@ -14,7 +14,7 @@
 
 int main(int argc, char **argv)
 {
-	char cmdline[MAXBUF]; // stores user input from commmand line
-
+	
+	dshMain();
 	return 0;
 }
